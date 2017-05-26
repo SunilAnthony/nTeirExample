@@ -1,0 +1,12 @@
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Services\bin\Debug\MultiLayer.Services.dll.config
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Services\bin\Debug\MultiLayer.Services.dll
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Services\bin\Debug\MultiLayer.Services.pdb
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Services\bin\Debug\MultiLayer.Domain.dll
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Services\bin\Debug\MultiLayer.Infrasturcture.dll
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Services\bin\Debug\Ninject.dll
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Services\bin\Debug\MultiLayer.Domain.pdb
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Services\bin\Debug\MultiLayer.Infrasturcture.pdb
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Services\bin\Debug\Ninject.xml
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Services\obj\Debug\MultiLayer.Services.csprojResolveAssemblyReference.cache
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Services\obj\Debug\MultiLayer.Services.dll
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Services\obj\Debug\MultiLayer.Services.pdb

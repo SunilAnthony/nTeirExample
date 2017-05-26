@@ -1,0 +1,14 @@
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\bin\Debug\MultiLayer.Infrasturcture.dll.config
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\bin\Debug\MultiLayer.Infrasturcture.dll
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\bin\Debug\MultiLayer.Infrasturcture.pdb
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\bin\Debug\EntityFramework.dll
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\bin\Debug\MultiLayer.Domain.dll
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\bin\Debug\MultiLayer.Domain.pdb
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\bin\Debug\EntityFramework.xml
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\obj\Debug\MultiLayer.Infrasturcture.csprojResolveAssemblyReference.cache
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\obj\Debug\MultiLayer.Infrasturcture.Migrations.InitialCreate.resources
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\obj\Debug\MultiLayer.Infrasturcture.csproj.GenerateResource.Cache
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\obj\Debug\MultiLayer.Infrasturcture.dll
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Infrasturcture\obj\Debug\MultiLayer.Infrasturcture.pdb

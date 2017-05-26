@@ -1,0 +1,5 @@
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Domain\bin\Debug\MultiLayer.Domain.dll
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Domain\bin\Debug\MultiLayer.Domain.pdb
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Domain\obj\Debug\MultiLayer.Domain.csprojResolveAssemblyReference.cache
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Domain\obj\Debug\MultiLayer.Domain.dll
+C:\Users\sunil.anthony\Desktop\Sample Projects\NTierCSharpExample-master\MultiLayer.Domain\obj\Debug\MultiLayer.Domain.pdb
